@@ -1,0 +1,36 @@
+<html>
+<head>
+	<title>General</title>
+	</head>
+	<body>
+		<progess max="100" value="10"></progess>
+		<meter max="100" mini="20" value="30"></meter>
+
+		<div>
+		Division Tag 1
+		<p>
+		this is sampal code
+	   </p>
+		
+		<p>
+			This is simple codes
+		</p>
+		<p>
+			This is simple codes
+		</p>
+		</div>
+
+		<div>
+		Division Tag 2
+		<p> 
+			This is simple codes
+		</p>
+		<p>
+			This is simpl codes
+		</p>
+		</div>
+		
+	</body>
+	<footer>
+	</footer>
+</html>
